@@ -1,3 +1,3 @@
 <?php
-echo "lizhengxiang";
-echo "\n";
+ echo phpversion();
+ echo "\n";
